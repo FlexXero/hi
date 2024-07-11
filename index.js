@@ -1,3 +1,4 @@
+const keep_alive = require('./keep_alive.js');
 const axios = require('axios');
 const cron = require('node-cron');
 
